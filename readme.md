@@ -19,6 +19,7 @@
 
 - [Lista de tarefas](https://github.com/Nerd00F/Lista-de-tarefas)
 - [Calculadora](https://github.com/Nerd00F/calculadora)
+- [Jogo da cobra](https://github.com/Nerd00F/jogo-da-cobra)
 - [Instagram](https://github.com/Nerd00F/instagram-ui)
 - [Youtube](https://github.com/Nerd00F/youtube-clone)
 - [Disney+](https://github.com/Nerd00F/disney-plus/)
