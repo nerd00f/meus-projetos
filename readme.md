@@ -1,4 +1,4 @@
-# Estudos em livros 📘
+# Códigos diversos 👨‍💻
 
 - [Link](https://github.com/Nerd00F/Meus-estudos/tree/main/src)
 
