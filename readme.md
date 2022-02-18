@@ -1,4 +1,4 @@
-# Estudos em livros 🎩
+# Estudos em livros 📘
 
 - [Link](https://github.com/Nerd00F/Meus-estudos/tree/main/Estudos%20em%20Livros)
 
