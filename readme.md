@@ -1,10 +1,9 @@
-# Estudos em livros 🎩
+## Rocketseat
 
-- [Link](https://github.com/Nerd00F/Meus-estudos/tree/main/Estudos%20em%20Livros)
+- [Be the hero - Oministack #11](https://github.com/Nerd00F/Be-the-hero)
+- [Dev Finances - Maratona Discover #1](https://github.com/Nerd00F/dev-finances)
 
-# Javascript 🐤
-
-## Desafio 8 projetos
+## Desafios
 
 - [ ] Jogo multiplayer
 - [x] [Portfólio](https://github.com/Nerd00F/nerd00f.github.io)
@@ -14,12 +13,9 @@
 - [x] [Spotify](https://github.com/Nerd00F/spotify-clone)
 - [ ] Monitor de atividade da cpu
 - [x] [Editor de texto](https://github.com/Nerd00F/editor-rich-text)
+- [x] [Contador](https://github.com/Nerd00F/Contador)
 
-## DevChallenge
-
-- [Contador](https://github.com/Nerd00F/Contador)
-
-## Html, css, javascript
+## Javascript
 
 - [Lista de tarefas](https://github.com/Nerd00F/Lista-de-tarefas)
 - [Calculadora](https://github.com/Nerd00F/calculadora)
@@ -28,20 +24,12 @@
 - [Youtube](https://github.com/Nerd00F/youtube-clone)
 - [Disney+](https://github.com/Nerd00F/disney-plus/)
 
-## React, node, angular
+## Estudos de livros
 
-- [Be the hero - oministack #11](https://github.com/Nerd00F/Be-the-hero)
+- [Link de acesso](https://github.com/Nerd00F/Meus-estudos/tree/main/src/01.%20Livros)
+
+## Outros
+
 - [Cadastro empresarial](https://github.com/Nerd00F/Cadastro-robusto)
 - [Listagem de cursos](https://github.com/Nerd00F/Listagem-cursos)
-
-# Java ☕
-
-- [Estudos em java](https://github.com/Nerd00F/Meus-estudos/tree/main/Outros%20Estudos/Estudos%20em%20Java)
-
-# Python 🐍
-
-- [Estudos em python](https://github.com/Nerd00F/Meus-estudos/tree/main/Outros%20Estudos/Estudos%20em%20Python)
-
-# C ⛏️
-
-- [Estudos em c](https://github.com/Nerd00F/Meus-estudos/tree/main/Outros%20Estudos/Estudos%20em%20C)
+- [Códigos diversos [C, Java, Python]](https://github.com/Nerd00F/Meus-estudos/tree/main/src/02.%20Outros%20Estudos)
