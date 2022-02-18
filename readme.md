@@ -36,12 +36,12 @@
 
 # Java ☕
 
-- [Estudos em java]()
+- [Estudos em java](https://github.com/Nerd00F/Meus-estudos/tree/main/src/02.%20Outros%20Estudos/Estudos%20em%20Java)
 
 # Python 🐍
 
-- [Estudos em python]()
+- [Estudos em python](https://github.com/Nerd00F/Meus-estudos/tree/main/src/02.%20Outros%20Estudos/Estudos%20em%20Python)
 
 # C ⛏️
 
-- [Estudos em c]()
+- [Estudos em c](https://github.com/Nerd00F/Meus-estudos/tree/main/src/02.%20Outros%20Estudos/Estudos%20em%20C)
