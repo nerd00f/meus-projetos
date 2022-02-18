@@ -1,6 +1,6 @@
 # Estudos em livros 📘
 
-- [Link](https://github.com/Nerd00F/Meus-estudos/tree/main/Estudos%20em%20Livros)
+- [Link](https://github.com/Nerd00F/Meus-estudos/tree/main/src)
 
 # Javascript 🐤
 
@@ -36,12 +36,12 @@
 
 # Java ☕
 
-- [Estudos em java](https://github.com/Nerd00F/Meus-estudos/tree/main/Outros%20Estudos/Estudos%20em%20Java)
+- [Estudos em java]()
 
 # Python 🐍
 
-- [Estudos em python](https://github.com/Nerd00F/Meus-estudos/tree/main/Outros%20Estudos/Estudos%20em%20Python)
+- [Estudos em python]()
 
 # C ⛏️
 
-- [Estudos em c](https://github.com/Nerd00F/Meus-estudos/tree/main/Outros%20Estudos/Estudos%20em%20C)
+- [Estudos em c]()
