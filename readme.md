@@ -1,9 +1,3 @@
-# Códigos diversos 👨‍💻
-
-- [Link](https://github.com/Nerd00F/Meus-estudos/tree/main/src)
-
-# Javascript 🐤
-
 ## Rocketseat
 
 - [Be the hero - Oministack #11](https://github.com/Nerd00F/Be-the-hero)
@@ -21,12 +15,7 @@
 - [x] [Editor de texto](https://github.com/Nerd00F/editor-rich-text)
 - [x] [Contador](https://github.com/Nerd00F/Contador)
 
-## Frameworks
-
-- [Cadastro empresarial](https://github.com/Nerd00F/Cadastro-robusto)
-- [Listagem de cursos](https://github.com/Nerd00F/Listagem-cursos)
-
-## Outros
+## Javascript
 
 - [Lista de tarefas](https://github.com/Nerd00F/Lista-de-tarefas)
 - [Calculadora](https://github.com/Nerd00F/calculadora)
@@ -35,14 +24,12 @@
 - [Youtube](https://github.com/Nerd00F/youtube-clone)
 - [Disney+](https://github.com/Nerd00F/disney-plus/)
 
-# Java ☕
+## Estudos de livros
 
-- [Estudos em java](https://github.com/Nerd00F/Meus-estudos/tree/main/src/02.%20Outros%20Estudos/Estudos%20em%20Java)
+- [Link de acesso](https://github.com/Nerd00F/Meus-estudos/tree/main/src/01.%20Livros)
 
-# Python 🐍
+## Outros
 
-- [Estudos em python](https://github.com/Nerd00F/Meus-estudos/tree/main/src/02.%20Outros%20Estudos/Estudos%20em%20Python)
-
-# C ⛏️
-
-- [Estudos em c](https://github.com/Nerd00F/Meus-estudos/tree/main/src/02.%20Outros%20Estudos/Estudos%20em%20C)
+- [Cadastro empresarial](https://github.com/Nerd00F/Cadastro-robusto)
+- [Listagem de cursos](https://github.com/Nerd00F/Listagem-cursos)
+- [Códigos diversos [C, Java, Python]](https://github.com/Nerd00F/Meus-estudos/tree/main/src/02.%20Outros%20Estudos)
