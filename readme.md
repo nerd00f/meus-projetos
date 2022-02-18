@@ -4,7 +4,12 @@
 
 # Javascript 🐤
 
-## Desafio 8 projetos
+## Rocketseat
+
+- [Be the hero - Oministack #11](https://github.com/Nerd00F/Be-the-hero)
+- [Dev Finances - Maratona Discover #1](https://github.com/Nerd00F/dev-finances)
+
+## Desafios
 
 - [ ] Jogo multiplayer
 - [x] [Portfólio](https://github.com/Nerd00F/nerd00f.github.io)
@@ -14,12 +19,14 @@
 - [x] [Spotify](https://github.com/Nerd00F/spotify-clone)
 - [ ] Monitor de atividade da cpu
 - [x] [Editor de texto](https://github.com/Nerd00F/editor-rich-text)
+- [x] [Contador](https://github.com/Nerd00F/Contador)
 
-## DevChallenge
+## Frameworks
 
-- [Contador](https://github.com/Nerd00F/Contador)
+- [Cadastro empresarial](https://github.com/Nerd00F/Cadastro-robusto)
+- [Listagem de cursos](https://github.com/Nerd00F/Listagem-cursos)
 
-## Html, css, javascript
+## Outros
 
 - [Lista de tarefas](https://github.com/Nerd00F/Lista-de-tarefas)
 - [Calculadora](https://github.com/Nerd00F/calculadora)
@@ -27,12 +34,6 @@
 - [Instagram](https://github.com/Nerd00F/instagram-ui)
 - [Youtube](https://github.com/Nerd00F/youtube-clone)
 - [Disney+](https://github.com/Nerd00F/disney-plus/)
-
-## React, node, angular
-
-- [Be the hero - oministack #11](https://github.com/Nerd00F/Be-the-hero)
-- [Cadastro empresarial](https://github.com/Nerd00F/Cadastro-robusto)
-- [Listagem de cursos](https://github.com/Nerd00F/Listagem-cursos)
 
 # Java ☕
 
