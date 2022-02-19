@@ -32,4 +32,4 @@
 
 - [Cadastro empresarial](https://github.com/Nerd00F/Cadastro-robusto)
 - [Listagem de cursos](https://github.com/Nerd00F/Listagem-cursos)
-- [Códigos diversos [Python, C]](https://github.com/Nerd00F/Meus-estudos/tree/main/src/02.%20Outros%20Estudos)
+- [Estudo em C]](https://github.com/Nerd00F/Meus-estudos/tree/main/src/02.%20Estudos%20em%20C)
