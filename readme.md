@@ -26,7 +26,7 @@
 
 ## Estudos de livros
 
-- [Link de acesso](https://github.com/Nerd00F/Meus-estudos/tree/main/src/01.%20Livros)
+- [Link de acesso](https://github.com/Nerd00F/Meus-estudos/tree/main/src/)
 
 ## Outros
 
