@@ -1,13 +1,13 @@
 ## 🚀 Rocketseat
 
-- [Be the hero - Oministack #11](https://github.com/Nerd00F/Be-the-hero)
+- [Portfólio - Desafios Discover #1](https://github.com/Nerd00F/portfolio)
 - [Dev Finances - Maratona Discover #1](https://github.com/Nerd00F/dev-finances)
+- [Be the hero - Oministack #11](https://github.com/Nerd00F/Be-the-hero)
 
 ## 🏆 Desafios
 
 - [ ] Jogo multiplayer
 - [x] [Cadastro empresarial](https://github.com/Nerd00F/Cadastro-robusto)
-- [x] [Portfólio](https://github.com/Nerd00F/portfolio)
 - [x] [E-Commerce](https://github.com/Nerd00F/E-Commerce)
 - [x] [Pagina de cursos](https://github.com/Nerd00F/pagina-de-cursos)
 - [x] [Consulta de cep](https://github.com/Nerd00F/Consulta-de-Cep)
