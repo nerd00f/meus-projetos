@@ -1,6 +1,9 @@
 ## 📚 Estudos de livros
 
-- [Link de acesso](https://github.com/Nerd00F/Meus-estudos/tree/main/src/)
+- [Curso intensivo de python](https://github.com/Nerd00F/Curso-intensivo-de-python)
+- [Desbravando Java e Orientação a Objetos - Um guia para o iniciante da linguagem](https://github.com/Nerd00F/Desbravando-Java-e-Orientacao-a-Objetos)
+- [Wicked Cool Shell Scripts_ 101 Scripts for Linux, OS X, and UNIX Systems](https://github.com/Nerd00F/Wicked-Cool-Shell-Scripts-101)
+- [Linguagem C. Completa E Descomplicada](https://github.com/Nerd00F/Linguagem-C-Completa-E-Descomplicada)
 
 ## 🏆 Desafios
 
