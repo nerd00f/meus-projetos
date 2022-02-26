@@ -1,3 +1,7 @@
+## 🐍 Python
+
+- [Port Scanner](https://github.com/Nerd00F/port-scanner)
+
 ## 📚 Estudos de livros
 
 - [Curso intensivo de python](https://github.com/Nerd00F/Curso-intensivo-de-python)
@@ -22,10 +26,3 @@
 - [Portfólio - Desafio Discover #1](https://github.com/Nerd00F/portfolio)
 - [Dev Finances - Maratona Discover #1](https://github.com/Nerd00F/dev-finances)
 - [Be the hero - Oministack #11](https://github.com/Nerd00F/Be-the-hero)
-
-## 🎭 Clone de interface
-
-- [Spotify](https://github.com/Nerd00F/spotify-clone)
-- [Instagram](https://github.com/Nerd00F/instagram-ui)
-- [Youtube](https://github.com/Nerd00F/youtube-clone)
-- [Disney+](https://github.com/Nerd00F/disney-plus/)
