@@ -11,7 +11,6 @@
 
 ## 🏆 Desafios
 
-- [Cadastro empresarial](https://github.com/Nerd00F/Cadastro-robusto)
 - [Consulta de cep](https://github.com/Nerd00F/Consulta-de-Cep)
 - [Calculadora](https://github.com/Nerd00F/calculadora)
 - [Editor de texto](https://github.com/Nerd00F/editor-rich-text)
@@ -19,6 +18,7 @@
 - [Lista de tarefas](https://github.com/Nerd00F/Lista-de-tarefas)
 - [Pagina de cursos](https://github.com/Nerd00F/pagina-de-cursos)
 - [E-Commerce](https://github.com/Nerd00F/E-Commerce)
+- [Cadastro empresarial](https://github.com/Nerd00F/Cadastro-robusto)
 
 ## 🚀 Rocketseat
 
