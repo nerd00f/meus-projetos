@@ -26,3 +26,7 @@
 - [Portfólio - Desafio Discover #1](https://github.com/Nerd00F/portfolio)
 - [Dev Finances - Maratona Discover #1](https://github.com/Nerd00F/dev-finances)
 - [Be the hero - Oministack #11](https://github.com/Nerd00F/Be-the-hero)
+
+## 🧨 Outros
+
+- [Mindustry schematics](https://github.com/Nerd00F/Mindustry-schematics)
