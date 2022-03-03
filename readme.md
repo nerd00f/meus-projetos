@@ -1,7 +1,3 @@
-## 🐍 Python
-
-- [Port Scanner](https://github.com/Nerd00F/port-scanner)
-
 ## 📚 Estudos de livros
 
 - [Curso intensivo de python](https://github.com/Nerd00F/Curso-intensivo-de-python)
@@ -26,3 +22,7 @@
 - [Portfólio - Desafio Discover #1](https://github.com/Nerd00F/portfolio)
 - [Dev Finances - Maratona Discover #1](https://github.com/Nerd00F/dev-finances)
 - [Be the hero - Oministack #11](https://github.com/Nerd00F/Be-the-hero)
+
+## 🧨 Outros
+
+- [Hacking Box](https://github.com/Nerd00F/Hacking-Box)
