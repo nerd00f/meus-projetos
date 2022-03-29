@@ -17,7 +17,7 @@
 ## 🏆 Desafios
 
 - [Consulta de Cep](https://github.com/Nerd00F/Consulta-de-Cep)
-- [Calculadora](https://github.com/Nerd00F/calculadora)
-- [Editor de Texto](https://github.com/Nerd00F/editor-rich-text)
+- [Calculadora](https://github.com/Nerd00F/Calculadora)
+- [Editor de Texto](https://github.com/Nerd00F/Editor-de-Texto)
 - [Contagem Regressiva](https://github.com/Nerd00F/Contagem-Regressiva)
 - [Lista de Tarefas](https://github.com/Nerd00F/Lista-de-Tarefas)
