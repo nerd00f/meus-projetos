@@ -1,15 +1,15 @@
 ## Javascript
 
-- [Rocket Coffee](https://github.com/Nerd00F/Rocket-coffee)
-- [Consulta de Cep](https://github.com/Nerd00F/Consulta-de-Cep)
-- [Calculadora](https://github.com/Nerd00F/Calculadora)
-- [Editor de Texto](https://github.com/Nerd00F/Editor-de-Texto)
-- [Lista de Tarefas](https://github.com/Nerd00F/Lista-de-Tarefas)
-- [Be The Hero - Oministack #11](https://github.com/Nerd00F/Be-the-hero)
-- [Cadastro Empresarial - ReactJs](https://github.com/Nerd00F/Cadastro-robusto)
+- [rocket coffee](https://github.com/Nerd00F/rocket-coffee)
+- [consulta de cep](https://github.com/Nerd00F/consulta-de-cep)
+- [calculadora](https://github.com/Nerd00F/calculadora)
+- [editor de texto](https://github.com/Nerd00F/editor-de-texto)
+- [lista de tarefas](https://github.com/Nerd00F/lista-de-tarefas)
+- [be the hero - oministack #11](https://github.com/Nerd00F/be-the-hero)
+- [cadastro empresarial - reactJs](https://github.com/Nerd00F/cadastro-robusto)
 
 ## Outros estudos
 
-- [Curso Intensivo de Python](https://github.com/Nerd00F/Curso-intensivo-de-python)
-- [Linguagem C. Completa e Descomplicada](https://github.com/Nerd00F/Linguagem-C-Completa-e-Descomplicada)
-- [Desbravando Java e Orientação a Objetos](https://github.com/Nerd00F/Desbravando-Java-e-Orientacao-a-Objetos)
+- [curso intensivo de python](https://github.com/Nerd00F/curso-intensivo-de-python)
+- [linguagem c. completa e descomplicada](https://github.com/Nerd00F/linguagem-c-completa-e-descomplicada)
+- [desbravando java e orientação a objetos](https://github.com/Nerd00F/desbravando-java-e-orientacao-a-objetos)
