@@ -13,4 +13,5 @@
 - [curso intensivo de python](https://github.com/nerd00f/curso-intensivo-de-python)
 - [linguagem c. completa e descomplicada](https://github.com/nerd00f/linguagem-c-completa-e-descomplicada)
 - [desbravando java e orientação a objetos](https://github.com/nerd00f/desbravando-java-e-orientacao-a-objetos)
+- [curso basico de sql](https://github.com/nerd00f/curso-basico-de-sql)
 - [ping 2021](https://github.com/nerd00f/ping-2021)
