@@ -15,3 +15,4 @@
 - [desbravando java e orientação a objetos](https://github.com/nerd00f/desbravando-java-e-orientacao-a-objetos)
 - [curso basico de sql](https://github.com/nerd00f/curso-basico-de-sql)
 - [ping 2021 (shell, linux)](https://github.com/nerd00f/ping-2021)
+- [ethical hacking](https://github.com/nerd00f/ethical-hacking)
