@@ -6,7 +6,7 @@
 - [editor de texto](https://github.com/nerd00f/editor-de-texto)
 - [lista de tarefas](https://github.com/nerd00f/lista-de-tarefas)
 - [be the hero - oministack #11](https://github.com/nerd00f/be-the-hero)
-- [cadastro empresarial - reactJs](https://github.com/nerd00f/cadastro-robusto)
+- [cadastro empresarial - reactJs](https://github.com/nerd00f/cadastro-empresarial)
 
 ## Outros estudos
 
