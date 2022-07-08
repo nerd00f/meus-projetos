@@ -1,3 +1,5 @@
+> 🔒️ repositorios privados
+
 ## Javascript
 
 - [rocket coffee](https://github.com/nerd00f/rocket-coffee)
@@ -5,6 +7,7 @@
 - [calculadora](https://github.com/nerd00f/calculadora)
 - [editor de texto](https://github.com/nerd00f/editor-de-texto)
 - [lista de tarefas](https://github.com/nerd00f/lista-de-tarefas)
+- [🔒️ angular money group](https://github.com/nerd00f/angular-money-group)
 - [be the hero - oministack #11](https://github.com/nerd00f/be-the-hero)
 - [cadastro empresarial - reactJs](https://github.com/nerd00f/cadastro-empresarial)
 
@@ -16,3 +19,4 @@
 - [curso basico de sql](https://github.com/nerd00f/curso-basico-de-sql)
 - [shell, linux](https://github.com/nerd00f/shell-linux)
 - [ethical hacking](https://github.com/nerd00f/ethical-hacking)
+
