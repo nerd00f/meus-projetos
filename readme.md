@@ -24,5 +24,5 @@
 
 ## Hacking
 
-- [ethical hacking](https://github.com/nerd00f/ethical-hacking)
+- [manpages](https://github.com/nerd00f/manpages)
 - [lista de senhas](https://github.com/nerd00f/lista-de-senhas)
