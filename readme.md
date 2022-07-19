@@ -3,7 +3,7 @@
 ## Frameworks
 - [be the hero - oministack #11](https://github.com/nerd00f/be-the-hero)
 - [cadastro empresarial - react, json server](https://github.com/nerd00f/cadastro-empresarial)
-- [moments - react, adonis](https://github.com/nerd00f/moments)
+- [moments - angular, adonis](https://github.com/nerd00f/moments)
 
 ## Javascript
 
