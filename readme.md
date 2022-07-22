@@ -5,6 +5,7 @@
 - [moments - angular, adonis](https://github.com/nerd00f/moments)
 - [cadastro empresarial - react, json server](https://github.com/nerd00f/cadastro-empresarial)
 - [cadastro de produtos - angular, json server](https://github.com/nerd00f/cadastro-de-produtos)
+- [pokedex - angular](https://github.com/nerd00f/pokedex)
 
 ## Javascript
 
