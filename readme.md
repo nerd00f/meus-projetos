@@ -1,6 +1,7 @@
 > 🔒️ repositorios privados
 
 ## Frameworks
+
 - [be the hero - oministack #11](https://github.com/nerd00f/be-the-hero)
 - [moments - angular, adonis](https://github.com/nerd00f/moments)
 - [cadastro empresarial - react, json server](https://github.com/nerd00f/cadastro-empresarial)
@@ -16,15 +17,10 @@
 - [lista de tarefas](https://github.com/nerd00f/lista-de-tarefas)
 - [🔒️ angular money group](https://github.com/nerd00f/angular-money-group)
 
-## Programação
+## Outros códigos
 
 - [curso intensivo de python](https://github.com/nerd00f/curso-intensivo-de-python)
 - [linguagem c. completa e descomplicada](https://github.com/nerd00f/linguagem-c-completa-e-descomplicada)
 - [desbravando java e orientação a objetos](https://github.com/nerd00f/desbravando-java-e-orientacao-a-objetos)
 - [curso basico de sql](https://github.com/nerd00f/curso-basico-de-sql)
 - [shell, linux](https://github.com/nerd00f/shell-linux)
-
-## Hacking
-
-- [manpages](https://github.com/nerd00f/manpages)
-- [lista de senhas](https://github.com/nerd00f/lista-de-senhas)
